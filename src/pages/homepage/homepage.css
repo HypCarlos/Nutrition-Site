@@ -6,11 +6,11 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    flex: 0.8;
+    flex: 2;
     flex-wrap: wrap;
   }
   .hero-right {
-    flex: 1;
+    flex: 2;
   }
 
   h1 {
@@ -18,7 +18,7 @@
     color: black;
   }
   #motion {
-    width: 100%;
+    min-width: 100%;
   }
 }
 
@@ -32,9 +32,9 @@
     justify-content: center;
   }
   #spline {
-    height: 20%;
+    max-height: 1000px;
   }
   #motion {
-    height: 80%;
+    min-width: 100%;
   }
 }

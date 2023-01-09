@@ -1,0 +1,11 @@
+.footer-container {
+  display: flex;
+  background-color: black;
+}
+
+.footer-left {
+  flex: 1;
+}
+.footer-right {
+  flex: 1;
+}
