@@ -23,7 +23,8 @@ const Homepage = () => {
 </div>
 <div className='hero-right'>
 <motion.div id = "motion" initial={{ x: 500 }} animate={{ x: 0 }} exit={{ x: 100 }} transition={{ ease: "easeOut", duration: 1 }}>
-<Spline id = "spline" scene="https://prod.spline.design/h3aI4HJw7CBuknvI/scene.splinecode" />
+<Spline  id = "spline" scene="https://prod.spline.design/h3aI4HJw7CBuknvI/scene.splinecode" />
+
 </motion.div>
 </div>
     </div>

@@ -11,7 +11,6 @@ const Navbar = () => {
                 About
             </a>
             </li>
-
             <li>
             <a href='/work'>
                 Work
